@@ -13,7 +13,7 @@ This project is a simple web-based tool that allows you to convert SQLite databa
 
 No installation is required. Simply clone the repository and open `main.html` in your web browser.
 
-```bash
+``bash
 git clone https://github.com/sahil0902/SQLitetoCSV.git
 
 ## Usage
