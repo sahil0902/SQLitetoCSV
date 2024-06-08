@@ -11,7 +11,7 @@ This project is a simple web-based tool that allows you to convert SQLite databa
 
 ## Installation
 
-No installation is required. Simply clone the repository and open `main.html` in your web browser.
+No installation is required. Simply clone the repository and open `index.html` in your web browser.
 ```
 git clone https://github.com/sahil0902/SQLitetoCSV.git
 ```
