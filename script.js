@@ -195,3 +195,7 @@ function updateTableList(tableName, sublist) {
     listItem.textContent = tableName;
     sublist.appendChild(listItem);
 }
+//reload page
+ function reloadPage() {
+            location.reload();
+        }
